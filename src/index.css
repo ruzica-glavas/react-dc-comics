@@ -53,3 +53,8 @@ ul{
 li{
   justify-content: space-between;
 }
+
+
+footer{
+  background-image: url("./assets/img/footer-bg.jpg");
+}
