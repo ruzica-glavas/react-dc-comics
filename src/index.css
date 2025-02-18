@@ -5,7 +5,7 @@ header{
   justify-content:space-around
 }
 
-ul{
+.list-horrizzontal{
   display: flex;
   gap: 10px;
   list-style-type: none;
@@ -54,7 +54,61 @@ li{
   justify-content: space-between;
 }
 
+/*footer*/
 
 footer{
   background-image: url("./assets/img/footer-bg.jpg");
 }
+
+.footer-content{
+  display: flex;
+  padding-left: 14rem;
+}
+
+h3{
+  color: white;
+}
+
+.list-vertical{
+  display: block;
+
+}
+
+footer a{
+  color:grey;
+  text-transform: capitalize;
+}
+
+footer ul{
+  list-style-type: none;
+}
+
+div h3{
+  padding-left: 40px;
+}
+
+.footer-btn{
+  display: flex;
+  justify-content: space-around;
+  background-color: #303030;
+  padding: 30px;
+}
+
+.signup a{
+  color:white;
+}
+
+button{
+  background-color: #303030;
+  border-color: #0C7CEC;
+  padding: 10px;
+}
+
+.socialmedia a{
+  color: #0C7CEC;
+  font-weight: bold;
+  font-size: large;
+  text-transform: uppercase;
+}
+
+

@@ -4,9 +4,9 @@ const Main = () =>{
             <section id="click">
                 <a className="content-click" href="#">Content goes Here</a>
             </section>
-            
+
             <section id="products">
-                <ul>
+                <ul className="list-horrizzontal">
                     <li>
                         <a className="content" href="#">Digital Comics</a>
                     </li>

@@ -5,7 +5,7 @@ const Header =()=>{
                 <img src="/dc-logo.png" alt="logo"></img>
             </figure>
                 <nav>
-                    <ul>
+                    <ul className="list-horrizzontal">
                         <li><a href="#">Characters</a></li>
                         <li><a href="#">Comics</a></li>
                         <li><a href="#">Movies</a></li>
