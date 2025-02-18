@@ -21,3 +21,35 @@ a{
 ul li a:hover{
   color: blue;
 }
+
+/*Main*/
+main{
+  background-color: #0C7CEC;
+}
+#click{
+  background-color: black;
+  padding: 50px;
+  padding-left: 150px;
+  display: flex;
+}
+
+.content-click{
+  color: white;
+}
+.content{
+  color:white;
+}
+
+#products{
+  color: white;
+  background-color: #0C7CEC;
+  padding-bottom: 30px;
+}
+
+ul{
+  display: flex;
+}
+
+li{
+  justify-content: space-between;
+}
