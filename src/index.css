@@ -44,15 +44,14 @@ main{
   color: white;
   background-color: #0C7CEC;
   padding-bottom: 30px;
+  padding-left: 7rem;
 }
 
-ul{
-  display: flex;
+#products 
+.list-horrizzontal li{
+  margin-right: 30px;
 }
 
-li{
-  justify-content: space-between;
-}
 
 /*footer*/
 
