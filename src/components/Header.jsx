@@ -1,8 +1,8 @@
 
 
-const Header =()=>{
+const Header =({links})=>{
 
-    const links=[
+    {/* const links=[
         {id: 1, text: "Characters", url: '#'},
         {id: 2, text: "Comics", url: '#'},
         {id: 3, text: "Movies", url: '#'},
@@ -12,8 +12,8 @@ const Header =()=>{
         {id: 7, text: "Videos", url: '#'},
         {id: 8, text: "Fans", url: '#'},
         {id: 9, text: "News", url: '#'},
-        {id: 10, text: "Shop", url: '#'},
-    ]
+        {id: 10, text: "Shop", url: '#'},]*/}
+    
     
     return(
         <header>
