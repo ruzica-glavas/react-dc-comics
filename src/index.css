@@ -1,4 +1,4 @@
-/*Components Header*/
+/*Components Header*/ /*http://localhost:5173/*/
 
 header{
   display: flex;
@@ -19,7 +19,7 @@ a{
 }
 
 ul li a:hover{
-  color: blue;
+  color: #0C7CEC;
 }
 
 /*Main*/
