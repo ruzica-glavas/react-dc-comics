@@ -12,7 +12,9 @@ const Header =({links})=>{
         {id: 7, text: "Videos", url: '#'},
         {id: 8, text: "Fans", url: '#'},
         {id: 9, text: "News", url: '#'},
-        {id: 10, text: "Shop", url: '#'},]*/}
+        {id: 10, text: "Shop", url: '#'},]
+        
+        L'array di oggetti é stato spostato in App.jsx*/}
     
     
     return(

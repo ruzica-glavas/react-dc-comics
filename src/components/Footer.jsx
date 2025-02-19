@@ -52,6 +52,15 @@ const Footer =() => {
 
                 <div className="socialmedia">
                     <a href="#">Follow Us</a>
+                    <img className="social-icon" src="src\assets\img\footer-facebook.png"></img>
+                    <img className="social-icon" src="src\assets\img\footer-twitter.png"></img>
+                    <img className="social-icon" src="src\assets\img\footer-youtube.png"></img>
+                    <img className="social-icon" src="src\assets\img\footer-pinterest.png"></img>
+                    <img className="social-icon" src="src\assets\img\footer-periscope.png"></img>
+
+
+
+
                 </div>
             </section>
         </footer>

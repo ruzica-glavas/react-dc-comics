@@ -19,7 +19,7 @@ a{
 }
 
 ul li a:hover{
-  color: #0C7CEC;
+  color: blue;
 }
 
 /*Main*/
@@ -36,9 +36,7 @@ main{
 .content-click{
   color: white;
 }
-.content{
-  color:white;
-}
+
 
 #products{
   color: white;
@@ -47,9 +45,29 @@ main{
   padding-left: 7rem;
 }
 
+.list-horrizzontal{
+  display: flex;
+}
+
+.list-item-main{
+  display: flex;
+}
+
+.content{
+  color:white;
+  
+}
+
 #products 
 .list-horrizzontal li{
   margin-right: 30px;
+}
+
+
+
+.img-main{
+  width: 25px;
+  height: 25px;
 }
 
 
@@ -103,11 +121,22 @@ button{
   padding: 10px;
 }
 
+.socialmedia{
+  display: flex;
+  gap: 15px;
+}
+
 .socialmedia a{
   color: #0C7CEC;
   font-weight: bold;
   font-size: large;
   text-transform: uppercase;
+  align-items: center;
+}
+
+.social-icon{
+  width: 25px;
+  height: 25px;
 }
 
 
