@@ -2,7 +2,8 @@ const Main = () =>{
     return(
         <main>
             <section id="click">
-                <a className="content-click" href="#">Content goes Here</a>
+                <img className="teen-titans" src="src\assets\img\jumbotron.jpg"></img>
+                <span className="etichetta">Current series</span>
             </section>
 
             <section id="products">

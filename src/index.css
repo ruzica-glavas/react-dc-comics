@@ -26,15 +26,35 @@ ul li a:hover{
 main{
   background-color: #0C7CEC;
 }
+
 #click{
   background-color: black;
-  padding: 50px;
-  padding-left: 150px;
+  padding: 0 50px;
+  padding-bottom: 50px;
   display: flex;
 }
 
 .content-click{
   color: white;
+}
+
+.teen-titans{
+  height: 60vh;
+  width: 100%;
+  position: relative;
+}
+
+.etichetta{
+  color: white;
+  position: absolute;
+  top: 770px;
+  left: 500px;
+  text-transform: uppercase;
+  font-weight:bold;
+  border: #0C7CEC solid 2px;
+  background-color: #0C7CEC;
+  padding: 20px;
+  font-size: 30px;
 }
 
 
