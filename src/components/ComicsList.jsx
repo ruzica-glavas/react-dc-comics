@@ -165,10 +165,6 @@ const ComicsList = () => {
                         return (
 
                           <ComicsCard key= {comic.id} comic={comic}/>
-                          //<div className="cards" key={comic.id}>
-                            //<img className="img-comics" src={comic.thumb}></img>
-                            //<p className="title-comics">{comic.title}</p>
-                          //</div>
                           //Le card le ho spostate nel file ComicsCard così da avere un componente specifico per le card
                         )
                       })

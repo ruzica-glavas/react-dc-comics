@@ -1,4 +1,4 @@
-/*Components Header*/ /*http://localhost:5173/*/
+/*Components Header*/ 
 
 header{
   display: flex;
@@ -44,12 +44,12 @@ main{
   flex-wrap: wrap;
   padding: 100px;
   gap: 30px;
- 
 }
 
 .title-comics {
   color: white;
   font-weight: bold;
+  text-transform: uppercase;
 }
 
 

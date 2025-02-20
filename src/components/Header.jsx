@@ -30,6 +30,8 @@ const Header =({links})=>{
                                 <li key = {element.id}>
                                     <a href ={element.url}>{element.text}</a>
                                 </li>
+
+                                //Reso dimanico l'inserimento dei dati
                         )
                         }
 
@@ -43,7 +45,8 @@ const Header =({links})=>{
                         <li><a href="#">Videos</a></li>
                         <li><a href="#">Fans</a></li>
                         <li><a href="#">News</a></li>
-                        <li><a href="#">Shop</a></li>*/}
+                        <li><a href="#">Shop</a></li>
+                        Questa é la parte statica dell'inserimento dei dati*/}
                     </ul>
                 </nav> 
         </header>
