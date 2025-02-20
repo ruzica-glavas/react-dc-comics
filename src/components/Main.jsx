@@ -1,3 +1,5 @@
+import ComicsList from "./ComicsList"
+
 const Main = () =>{
     return(
         <main>
@@ -5,6 +7,8 @@ const Main = () =>{
                 <img className="teen-titans" src="src\assets\img\jumbotron.jpg"></img>
                 <span className="etichetta">Current series</span>
             </section>
+
+            <ComicsList />
 
             <section id="products">
                 <ul className="list-horrizzontal">
