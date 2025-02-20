@@ -24,8 +24,9 @@ ul li a:hover{
 
 /*Main*/
 main{
-  background-color: #0C7CEC;
+  background-color: black;
 }
+
 
 #click{
   background-color: black;
@@ -36,6 +37,25 @@ main{
 
 .content-click{
   color: white;
+}
+
+.container-cards{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 100px;
+  gap: 30px;
+ 
+}
+
+.title-comics {
+  color: white;
+  font-weight: bold;
+}
+
+
+
+.img-comics{
+  height: 40vh;
 }
 
 .teen-titans{
@@ -49,6 +69,7 @@ main{
   position: absolute;
   top: 770px;
   left: 500px;
+  display: inline-block;
   text-transform: uppercase;
   font-weight:bold;
   border: #0C7CEC solid 2px;
